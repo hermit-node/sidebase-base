@@ -1,4 +1,8 @@
-# my-sidebase-struggle-app
+# sidebase-base
+
+-----
+From original author:
+-----
 
 This is a [sidebase cheviot](https://sidebase.io/) app created by running `pnpm create sidebase@latest`. This project uses the following technologies for a great developer- and user-experience:
 - [TypeScript](https://www.typescriptlang.org/)
